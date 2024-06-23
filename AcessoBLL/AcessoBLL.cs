@@ -23,6 +23,7 @@ namespace AcessoBLL
             }
         }
         public Atleta GetAtleta(DataTable tabela)
+        {
             try
             {
                 Atleta _Atleta = new Atleta();
