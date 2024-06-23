@@ -1,6 +1,0 @@
-C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDTO\bin\Debug\AtletaDTO.dll
-C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDTO\bin\Debug\AtletaDTO.pdb
-C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDTO\obj\Debug\AtletaDTO.csproj.AssemblyReference.cache
-C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDTO\obj\Debug\AtletaDTO.csproj.CoreCompileInputs.cache
-C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDTO\obj\Debug\AtletaDTO.dll
-C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDTO\obj\Debug\AtletaDTO.pdb
