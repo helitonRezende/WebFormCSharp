@@ -1,9 +1,0 @@
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\bin\Debug\netstandard2.1\AcessoDTO.deps.json
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\bin\Debug\netstandard2.1\AcessoDTO.dll
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\bin\Debug\netstandard2.1\AcessoDTO.pdb
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\obj\Debug\netstandard2.1\AcessoDTO.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\obj\Debug\netstandard2.1\AcessoDTO.AssemblyInfoInputs.cache
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\obj\Debug\netstandard2.1\AcessoDTO.AssemblyInfo.cs
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\obj\Debug\netstandard2.1\AcessoDTO.csproj.CoreCompileInputs.cache
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\obj\Debug\netstandard2.1\AcessoDTO.dll
-C:\Users\sheyl\source\repos\HelitonAtletas\AcessoDTO\obj\Debug\netstandard2.1\AcessoDTO.pdb
