@@ -23,7 +23,6 @@ namespace AtletaDAO
             // Execução //
             public static void ExecuteNonQuery(string sql)
             {
-                int i = -1;
                 using (SqlConnection connection = GetDbConnection())
                 {
                     using (SqlCommand command = new SqlCommand(sql, connection))
