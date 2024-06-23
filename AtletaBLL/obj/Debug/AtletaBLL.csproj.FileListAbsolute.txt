@@ -1,0 +1,11 @@
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\bin\Debug\AtletaBLL.dll
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\bin\Debug\AtletaBLL.pdb
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\bin\Debug\AtletaDAO.dll
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\bin\Debug\AtletaDTO.dll
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\bin\Debug\AtletaDAO.pdb
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\bin\Debug\AtletaDTO.pdb
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\obj\Debug\AtletaBLL.csproj.AssemblyReference.cache
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\obj\Debug\AtletaBLL.csproj.CoreCompileInputs.cache
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\obj\Debug\AtletaBLL.csproj.Up2Date
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\obj\Debug\AtletaBLL.dll
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaBLL\obj\Debug\AtletaBLL.pdb

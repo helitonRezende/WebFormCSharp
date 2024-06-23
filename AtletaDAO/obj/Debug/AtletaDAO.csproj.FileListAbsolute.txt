@@ -1,0 +1,9 @@
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\bin\Debug\AtletaDAO.dll
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\bin\Debug\AtletaDAO.pdb
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\obj\Debug\AtletaDAO.csproj.AssemblyReference.cache
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\obj\Debug\AtletaDAO.csproj.CoreCompileInputs.cache
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\obj\Debug\AtletaDAO.csproj.Up2Date
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\obj\Debug\AtletaDAO.dll
+C:\Users\sheyl\source\repos\HelitonAtletas\AtletaDAO\obj\Debug\AtletaDAO.pdb

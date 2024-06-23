@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AcessoDTO\AcessoDTO.csproj" />
+    <ProjectReference Include="..\HelitonAtletasDAO\AcessoDAO\AcessoDAO.csproj" />
+  </ItemGroup>
+
+</Project>
